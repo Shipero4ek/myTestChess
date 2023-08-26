@@ -1,0 +1,2 @@
+# myTestChess
+Chess test
